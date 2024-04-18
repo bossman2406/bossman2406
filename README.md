@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Firas Hilman! 👋
 
 ## About Me
 I'm an Electrical and Electronic Engineer with a passion for merging technical expertise with business acumen. My background includes a minor in Business Administration, giving me a well-rounded understanding of both the technical and commercial aspects of projects. I've worked on diverse projects ranging from hardware design to software development, and I thrive in interdisciplinary environments where I can leverage my skills to drive innovation.
