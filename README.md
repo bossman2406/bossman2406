@@ -9,6 +9,7 @@ I'm an Electrical and Electronic Engineer with a passion for merging technical e
 - Java ☕️
 - C/C++ 🖥️
 - SQL 📊
+- HTML & CSS
 
 ### Platforms & Technologies:
 - Firebase 🔥
@@ -18,6 +19,7 @@ I'm an Electrical and Electronic Engineer with a passion for merging technical e
 - Mobile App Development (Android) 📱
 - XML 📄
 - Streamlit Dashboards 📊
+- Tableau 
 
 ## Projects
 ### Project 1: Image Classification AI Model
@@ -39,6 +41,11 @@ I'm an Electrical and Electronic Engineer with a passion for merging technical e
 - Designed and implemented a smart bag equipped with heat sensors, moisture sensors, LEDs, and other sensors.
 - Aimed at ensuring good health and safety in hot and humid environments.
 - Integrated Wi-Fi using ESP32 to send notifications to the user's phone, providing real-time alerts and enhancing user safety.
+
+### Project 5: Web Server API 
+- Designed a web api using flask to create a centralised hosting of web application and programs
+- Designed webpage using HTML and CSS, for image viewing and redirection
+- Web Analytics for server usage tracking
 
 ## Current Focus
 🌱 I'm currently diving deeper into Python for data analysis and machine learning applications, as well as exploring advanced concepts in embedded systems and IoT development using Arduino and Firebase. Additionally, I'm enhancing my skills in SQL for database management and mobile app development for Android using Java and XML.
